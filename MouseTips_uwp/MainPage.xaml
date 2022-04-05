@@ -10,5 +10,6 @@
 
     <Grid>
         <TextBlock Text="hello uwp"/>
+        <TimePicker/>
     </Grid>
 </Page>
